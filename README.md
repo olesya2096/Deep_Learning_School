@@ -1,6 +1,6 @@
 # Deep_Learning_School
 
-Home tasks from "Deep learning school". (MIPT)
+Home tasks from "Deep learning school"(MIPT).
 
 
 hw_kaggle.ipynb - is a notebook that contains a forecast of the outflow of users. In the process of work pipeline with linear models and catboost have been used with ROC-AUC rating on Kaggle about 0.85.
