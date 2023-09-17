@@ -12,3 +12,5 @@ hw_simpsons_baseline.ipynb - the main task of this notebook is to make a classif
 hw_semantic_segmentation.ipynb - the task of the notebook is to learn ways to segment images.
 
 hw_autoencoders.ipynb - the task is to study the architectures of autoencoders and implement them.
+
+hw_gan.ipynb - in the task it was necessary to implement a GAN and train it to generate human faces, as well as evaluate the quality of image generation by the model.
